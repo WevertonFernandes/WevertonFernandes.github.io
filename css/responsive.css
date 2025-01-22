@@ -1,8 +1,8 @@
 @media (max-width: 1200px) {
     main {
+        gap:20px;
         width: 100%;
-
-        flex-direction: column;
+        flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
     }
